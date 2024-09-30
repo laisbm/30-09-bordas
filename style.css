@@ -1,0 +1,39 @@
+body{background-color: rgb(235, 163, 193);}
+.s1{text-align: center;}
+.s1{color: rgb(5, 5, 126);}
+.s1{border-style: double;
+border-color: aquamarine;
+border-width: 5px;}
+.s1{margin-right: 30%;
+margin-left: 30%;}
+
+#im1{margin-left: 40%;}
+#im1{width: 40%;margin-left: 30%;}
+
+.s2{text-align: center;}
+.s2{color: rgb(243, 243, 37);}
+.s2{border-style: dashed;
+border-color: rgb(236, 255, 127);
+border-width: 2px;}
+.s2{margin-right: 30%;
+margin-left: 30%;
+margin-top: 2%;
+margin-bottom: 2%;}
+
+.s3{text-align: center;
+font-size: 80%}
+
+
+.s4{text-align: center;}
+.s4{color: rgb(177, 2, 75);}
+.s4{border-style: groove;
+border-color: rgb(183, 243, 183);
+border-width: 5px;}
+.s4{margin-right: 30%;
+margin-left: 30%;
+margin-top: 2%;
+margin-bottom: 2%;}
+
+
+#im2{margin-left: 40%;}
+#im2{width: 40%;margin-left: 30%;}
